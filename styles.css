@@ -1,0 +1,44 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 2;
+    padding: 0;
+    margin: 0;
+}
+h1 {
+    font-size: 900;
+    color: rgb(0, 0, 110);
+    font-weight: bolder;
+}
+div {
+    padding: 20px;
+}
+img {
+    width: 100%;
+    height: 100%;
+}
+h2{
+    padding: 20px 0px;
+}
+#rank {
+    text-align: center;
+}
+#rank h2{
+    text-align: left;
+}
+#rank img{
+    width: 60%;
+    height: 60%;
+}
+div#about  {
+    background-color: rgb(227, 252, 231);
+}
+div#branch {
+    background-color: rgb(227, 252, 231);
+}
+div#footer {
+    margin-top: 20px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 2px;
+}
